@@ -1,4 +1,4 @@
-## your friendly neighborhood engineer.
+## <div>your friendly neighborhood engineer</div>
 
 <div>
     <img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" width="30" height="30"/>
